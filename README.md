@@ -9,8 +9,7 @@ Rustみたいに素直ではないGolangのWebAssemblyをなんとかしよう�
 デッドロックとかデッドロックとかデッドロックとかデッドロックとかに随分と時間を吸われてなんとか動くまでになったものです。
 
 NodeJSから [jiro4989/ojosama](https://github.com/jiro4989/ojosama) を動作させるためにせっかくだしWebAssemblyで動かしたら速度改善も望めて
-
-JSとの親和性も高くなるんじゃねと思い作っていたので、[jiro4989/ojosama](https://github.com/jiro4989/ojosama) の動作サンプルとなります
+JSとの親和性も高くなるんじゃねと思い作っていたので中身の動作は、[jiro4989/ojosama](https://github.com/jiro4989/ojosama) となります
 
 *`wasm_exec_node.js`と`wasm_exec.js`は公式が提供しているものを使用しています。*
 
